@@ -20,6 +20,3 @@ The assignment involved applying data mining techniques to a real-world scenario
 - Rule generation: Extracting association rules to uncover relationships between rented movies.
 - Result analysis: Interpreting the frequent itemsets and rules to provide actionable insights about customer rental behavior.
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
